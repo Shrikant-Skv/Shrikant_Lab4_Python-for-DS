@@ -5,7 +5,7 @@
 * PCA for dimensionality reduction.
 * K-means and Agglomerative Clustering
 
-### Objective-
+### Objective:
 * Based on the given marketing campaign dataset, segment the similar customers into suitable clusters. Analyze the clusters and provide your insights to help the organization promote their business.
 
 ### Context:
