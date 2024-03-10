@@ -6,7 +6,7 @@ PCA for dimensionality reduction.
 K-means and Agglomerative Clustering
 
 ### Problem Statement-
-Based on the given marketing campigan dataset, segment the similar customers into suitable clusters. Analyze the clusters and provide your insights to help the organization promote their business.
+Based on the given marketing campaign dataset, segment the similar customers into suitable clusters. Analyze the clusters and provide your insights to help the organization promote their business.
 
 ### Context:
 Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
