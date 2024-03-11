@@ -1,4 +1,4 @@
-## Unsupervised Learning Lab-4 : Customer Persionality Analysis
+## Unsupervised Learning Lab-4 : Customer Personality Analysis
 
 ### Learning outcomes:
 * Exploratory data analysis and data preparation for model building.
